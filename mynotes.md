@@ -5,7 +5,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ### Counting Sliding Sindows
 
-``skimage.util`` library can be used to count number the sliding window that is used during MFCC calculation
+[``skimage.util``](https://scikit-image.org/docs/dev/api/skimage.util.html?highlight=view_as_windows#skimage.util.view_as_windows) library can be used to count number the sliding window that is used during MFCC calculation
 
 ```python
 from skimage import util
