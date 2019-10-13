@@ -7,7 +7,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ``skimage.util`` library can be used to count number the sliding window that is used during MFCC calculation
 
-```
+```python
 from skimage import util
 
 M = 1024 # Windos or Frame Size (samples)
